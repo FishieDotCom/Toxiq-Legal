@@ -17,6 +17,14 @@ Device Information: We collect information about the device you use to access To
 3. Information from Third Parties
 Social Media Integrations: If you link your Toxiq account with other social media platforms, we may collect information from those platforms in accordance with their privacy policies.
 
+# Information We Collect Via OneSignal (Notification Service)
+- Device model
+- Country
+- Timezone
+- SDK Version
+- App Usage Duration
+- Notification Activity
+
 # How We Use Your Information
 - To Provide and Improve Toxiq: We use your information to operate and enhance our platform, personalize your experience, and develop new features.
 - To Communicate with You: We use your contact information to send you updates, newsletters, and other communications related to Toxiq.
