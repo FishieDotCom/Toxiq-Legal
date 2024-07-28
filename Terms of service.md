@@ -1,6 +1,18 @@
 # Terms of Service
 All users must follow the Toxiq TOS to keep Toxiq a safe place for all users.
 
+# Spam and Misuse Prevention
+To maintain a high-quality and respectful community experience, Toxiq enforces strict guidelines against spam and misuse:
+
+## Spam
+- Users must not post repetitive, irrelevant, or unsolicited content, including but not limited to mass messaging, irrelevant links, or promotional materials not related to the community.
+- Automated posting of content or comments is prohibited unless explicitly approved by Toxiq.
+## Misuse
+- Users must not misuse the platform by engaging in activities that disrupt normal use, such as:
+- Posting malware or links to malicious sites.
+- Attempting to hack or exploit the platform.
+- Engaging in deceptive practices to gain followers or interactions.
+
 # Age Verification
 To maintain the integrity and safety of our community:
 
