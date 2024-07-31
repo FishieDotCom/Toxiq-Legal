@@ -7,8 +7,10 @@ To maintain a high-quality and respectful community experience, Toxiq enforces s
 ## Spam
 - Users must not post repetitive, irrelevant, or unsolicited content, including but not limited to mass messaging, irrelevant links, or promotional materials not related to the community.
 - Automated posting of content or comments is prohibited unless explicitly approved by Toxiq.
+
 ## Misuse
-- Users must not misuse the platform by engaging in activities that disrupt normal use, such as:
+Users must not misuse the platform by engaging in activities that disrupt normal use, such as:
+
 - Posting malware or links to malicious sites.
 - Attempting to hack or exploit the platform.
 - Engaging in deceptive practices to gain followers or interactions.
@@ -36,7 +38,8 @@ In accordance with the laws and regulations of the Maldives, Toxiq strictly proh
 - Any content that could be interpreted as sexually provocative.
 
 # Enforcement and Reporting
-- Users can report any content they believe violates these guidelines.
+Users can report any content they believe violates these guidelines.
+
 - Toxiq will review reported content and take appropriate action, which may include content removal or account suspension.
 - Repeated violations may result in permanent account deletion.
 
