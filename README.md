@@ -1,2 +1,2 @@
 # Toxiq-Legal
-Legal documents for Toxiq App
+[Privacy Policy](https://github.com/FishieDotCom/Toxiq-Legal/blob/main/Privacy%20Policy.md)
