@@ -8,7 +8,7 @@ your telegram id is used to enforce bans as well as to enable logging in to the 
 
 # Information We Collect Via App/Webapp
 1. Information You Provide
-Account Information: When you sign up for Toxiq, we collect your username, and profile picture.
+Account Information: When you sign up for Toxiq, we collect your Telegram ID.
 Profile Information: You may choose to provide additional information such as your bio and interests.
 Content: We collect the content you create, share, and interact with on Toxiq, including posts, comments, and messages.
 2. Information We Collect Automatically
