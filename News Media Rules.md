@@ -35,6 +35,7 @@ These rules apply to all accounts operated by news agencies, journalists, and me
 
 6. **Financial News and Riba**
    - News related to bank loans, financial products, or services will be heavily moderated
+   - Any news using the word intrest instead of Riba will be flagged 
    - Content must not promote or encourage the use of Riba (interest-bearing loans)
    - Reporting on financial matters should be objective and avoid glorifying interest-based transactions
    - When covering conventional banking products, include information on Islamic financial alternatives where relevant
