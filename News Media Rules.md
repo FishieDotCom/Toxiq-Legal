@@ -40,6 +40,114 @@ These rules apply to all accounts operated by news agencies, journalists, and me
    - Reporting on financial matters should be objective and avoid glorifying interest-based transactions
    - When covering conventional banking products, include information on Islamic financial alternatives where relevant
 
+
+## Media Reputation
+
+Toxiq employs a reputation rating system for news media accounts. This rating affects the visibility and prominence of posts from news accounts. The following factors contribute to an agency's Media Reputation score:
+
+1. **Quality of Reporting**
+   - Accuracy and reliability of past, present, and future news content
+   - Adherence to fact-checking standards
+   - Timeliness and relevance of reporting
+
+2. **Journalist Transparency**
+   - Completeness of journalist profiles (photo, full legal name, credentials)
+   - Consistency in linking articles to journalist profiles
+
+3. **Headline Quality**
+   - Accuracy and relevance of headlines
+   - Avoidance of clickbait or sensationalism
+   - Use of Dhivehi in headlines:
+     - News agencies that include a Dhivehi version (not Latin script) of headlines will receive an additional point in their ratings
+     - The Dhivehi headline should be presented as a header to their articles
+
+4. **Website User Experience**
+   - Quality and intrusiveness of advertisements on the agency's website
+   - Agencies with non-intrusive, user-friendly ad placements will receive higher scores
+   - Excessive or disruptive ads will result in score deductions
+
+5. **Funding Disclosure**
+   - Agencies that transparently disclose their funding sources will receive an increased reputation score
+   - Funding information will be displayed on the agency's profile for user reference
+
+6. **Community Engagement**
+   - Responsiveness to user comments and feedback
+   - Handling of corrections and retractions
+
+7. **Compliance with Toxiq Policies**
+   - Adherence to all platform guidelines and content standards
+
+## Reputation Score Impact
+
+- Higher reputation scores result in increased visibility of posts in user feeds and search results
+- Lower scores may lead to reduced visibility or additional review before content is widely distributed
+- Scores are regularly reviewed and updated based on ongoing performance and user feedback
+
+## Reputation Score Appeals
+
+News agencies may appeal their reputation score through a formal process if they believe it doesn't accurately reflect their quality and adherence to standards. Appeals will be reviewed by a dedicated committee.
+
+## Corrections and Retractions
+
+Toxiq requires news agencies to be transparent and proactive in addressing errors in their reporting. The following guidelines must be followed for corrections and retractions:
+
+1. **Correction Announcements**
+   - When a significant error is identified in a published article, the news agency must publish a separate correction article on Toxiq
+   - The correction article must be given the same level of prominence as the original erroneous article
+   - Simply adding an editor's note to the original article is not sufficient
+
+2. **Content of Correction Articles**
+   - Clearly state the error made in the original article
+   - Provide the correct information
+   - Explain how the error occurred (if known)
+   - Apologize for the mistake
+   - Link to the original article
+
+3. **Visibility of Corrections**
+   - Correction articles must be published as standalone posts
+   - They should be shared across all platforms where the original article was distributed
+   - The original article must be updated with a prominent link to the correction article
+
+4. **Timeframe**
+   - Corrections should be published as soon as possible after the error is discovered
+   - Ideally within 24 hours for major errors
+
+5. **Notification to Affected Parties**
+   - If the error involves misrepresentation of individuals or organizations, they should be directly notified of the correction
+
+6. **Archive Updates**
+   - Ensure that archived versions of the article also reflect the correction
+
+7. **Impact on Reputation Score**
+   - Promptly publishing comprehensive corrections can mitigate negative impacts on the agency's reputation score
+   - Failure to properly address errors will result in significant reputation score penalties
+
+## Severity of Errors
+
+The required response to errors will be proportional to their severity:
+
+1. **Minor Errors** (e.g., typos, minor date or name mistakes):
+   - Can be corrected in the original article with a note about the change
+
+2. **Significant Errors** (e.g., factual inaccuracies that don't fundamentally alter the story):
+   - Require a correction article as described above
+
+3. **Major Errors** (e.g., entirely false stories, severe misrepresentations):
+   - Require a correction article and may also necessitate a retraction of the original story
+   - May result in temporary suspension of posting privileges
+
+## Retraction Policy
+
+In cases where an article is found to be fundamentally flawed or false:
+
+1. The article must be retracted entirely
+2. A retraction notice must be published with the same prominence as the original article
+3. The original article URL should redirect to the retraction notice
+4. The retraction must explain why the article is being withdrawn
+
+Toxiq reserves the right to flag articles with known errors or to remove content that violates platform policies. Repeated failures to properly correct errors may result in account suspension or termination.
+
+
 ## Prohibited Content
 
 - Fake news or deliberately misleading information
