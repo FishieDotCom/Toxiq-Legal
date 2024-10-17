@@ -39,12 +39,6 @@ In accordance with the laws and regulations of the Maldives, Toxiq strictly proh
 - Explicit or suggestive sexual acts or behavior.
 - Any content that could be interpreted as sexually provocative.
 
-# Enforcement and Reporting
-Users can report any content they believe violates these guidelines.
-
-- Toxiq will review reported content and take appropriate action, which may include content removal or account suspension.
-- Repeated violations may result in permanent account deletion.
-
 # Impersonation and Fake Information
 To maintain authenticity and trust within the community:
 
@@ -53,21 +47,29 @@ To maintain authenticity and trust within the community:
 - Creating accounts with false information or using the platform to spread fake information is strictly prohibited.
 - Violation of these rules may result in account suspension or deletion.
 
-# Anti-Scraping
-To protect user data and maintain the integrity of the platform:
 
-- Automated data scraping of any kind is strictly prohibited.
-- Using bots or other automated means to access Toxiq for any purpose, including harvesting user information, is forbidden.
-- Any user found scraping data without permission agrees to pay Toxiq a sum of 1 BTC.
-- Violation of this policy may result in immediate account suspension or legal action.
+# Bullying and Harassment
 
-# Formal Requests for Data Scraping or Bots
+At Toxiq, we are committed to providing a safe, respectful, and inclusive environment for all users. We have a zero-tolerance policy for bullying and harassment in any form.
+### Bullying:
+- Persistent, targeted negative behavior towards an individual or group
+- Intimidation or attempts to create fear in others
+- Spreading malicious rumors or false information about others
 
-- Users may submit a formal request for data scraping or the use of bots by contacting [Toxiq support](https://t.me/WhoIsFishie).
-- Requests should include detailed information about the intended use and the methods to be employed.
-- Toxiq reserves the right to approve or deny any request at its discretion.
+### Harassment:
+- Any unwelcome conduct based on race, color, religion, gender, age, disability, or any other protected characteristic
+- Sexual harassment, including unwelcome sexual advances or comments
+- Stalking or persistent unwanted attention
+- Threats of violence or harm
 
-# Prohibition of Doxxing
+### Hate Speech:
+- Content that promotes hate or violence against individuals or groups based on protected characteristics
+- Use of slurs or derogatory language targeting specific groups
+
+### Encouraging Self-Harm:
+- Promoting, encouraging, or glorifying self-harm or suicide
+
+# Doxxing
 
 Toxiq strictly prohibits doxxing in any form. Doxxing is defined as the act of revealing or publishing private or identifying information about an individual or organization without their consent. This practice is a severe violation of privacy and can lead to harassment, stalking, or other harmful consequences.
 
@@ -96,20 +98,6 @@ The following actions are strictly forbidden on Toxiq:
 
 2. Consent: If an individual has explicitly and verifiably consented to have their information shared, it may be allowed. However, Toxiq reserves the right to remove such information if it poses a risk to the individual or others.
 
-### Consequences of Doxxing
-
-Users found engaging in doxxing will face severe consequences, including but not limited to:
-
-1. Immediate removal of the offending content
-2. Permanent account termination
-3. IP ban from the platform
-4. Reporting to relevant law enforcement agencies, if applicable
-
-### Reporting Doxxing
-
-Users are encouraged to report any instances of doxxing immediately. Toxiq will investigate all reports promptly and take appropriate action.
-
-
 # Prohibited Promotions
 To ensure the safety and well-being of our community, Toxiq prohibits the promotion of the following:
 
@@ -122,7 +110,6 @@ Content that promotes the use of nicotine products, including but not limited to
 ### Enforcement
 Any content found to be promoting gambling, drinking, or nicotine products will be removed.
 Violations of this policy may result in content removal, account suspension, or permanent account deletion.
-
 ### Riba (Interest-bearing Loans)
 Content that promotes or encourages the use of Riba, also known as interest-bearing loans, is strictly forbidden. This includes advertisements, endorsements, or any form of promotion for financial products or services that involve interest-based transactions.
 Predatory Loan Schemes
@@ -156,18 +143,24 @@ The following activities are strictly forbidden and will be treated as serious o
 - Using AI to generate fake nude images or explicit content of real individuals
 - Manipulating images or videos to misrepresent an individual's modesty or religious adherence
 
-## Consequences
-
-1. Immediate and permanent account termination
-2. Removal of all offending content
-3. Blocking of the offender's IP address and device(s) from accessing Toxiq
-4. Reporting of the incident to relevant law enforcement agencies
-5. Full cooperation with law enforcement in any resulting investigation
-6. Potential legal action against the offender
-
 Toxiq is committed to maintaining a safe environment for all users and will take swift action against any form of exploitation, violation of privacy, or misuse of technology to harm others. We encourage users to report any instances of these crimes immediately.
 
 We recognize the evolving nature of technology-facilitated abuse and will continually update our policies and enforcement measures to address new forms of digital exploitation.
+
+# Anti-Scraping
+To protect user data and maintain the integrity of the platform:
+
+- Automated data scraping of any kind is strictly prohibited.
+- Using bots or other automated means to access Toxiq for any purpose, including harvesting user information, is forbidden.
+- Any user found scraping data without permission agrees to pay Toxiq a sum of 1 BTC.
+- Violation of this policy may result in immediate account suspension or legal action.
+
+# Formal Requests for Data Scraping or Bots
+
+- Users may submit a formal request for data scraping or the use of bots by contacting [Toxiq support](https://t.me/WhoIsFishie).
+- Requests should include detailed information about the intended use and the methods to be employed.
+- Toxiq reserves the right to approve or deny any request at its discretion.
+
 
 # Advertising and Sponsored Content
 To maintain transparency and trust within the Toxiq community, the following guidelines apply to advertising and sponsored content:
