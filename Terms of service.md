@@ -173,7 +173,6 @@ To maintain transparency and trust within the Toxiq community, the following gui
 #### Marking Advertisements
 - All users posting advertisements or sponsored content must clearly mark their posts as ads.
 - This includes, but is not limited to, product promotions, sponsored reviews, and affiliate links.
-Enforcement
 - Failure to mark posts as advertisements may result in content removal.
 - Repeated violations may lead to account suspension or permanent account deletion.
 
