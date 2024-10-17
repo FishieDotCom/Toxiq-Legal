@@ -25,7 +25,7 @@ To maintain the integrity and safety of our community:
 # NSFW 
 any and all images uploaded must have NSFW tag added if it contains the following topics
 - Blood/Gore
-- Gross content (eg : vomiting)
+- Gross content (e.g., vomiting)
 
 #### NSFW tag does not give users a pass to upload Sexual content 
 
@@ -78,7 +78,7 @@ The following actions are strictly forbidden on Toxiq:
    - Home addresses
    - Phone numbers
    - Email addresses
-   - Government identification numbers eg : NID number
+   - Government identification numbers (e.g., NID no)
    - Private social media accounts or personal websites
    - Employer information or work addresses
    - Family members' information
