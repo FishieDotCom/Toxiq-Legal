@@ -78,6 +78,52 @@ Content that promotes the use of nicotine products, including but not limited to
 Any content found to be promoting gambling, drinking, or nicotine products will be removed.
 Violations of this policy may result in content removal, account suspension, or permanent account deletion.
 
+### Riba (Interest-bearing Loans)
+Content that promotes or encourages the use of Riba, also known as interest-bearing loans, is strictly forbidden. This includes advertisements, endorsements, or any form of promotion for financial products or services that involve interest-based transactions.
+Predatory Loan Schemes
+Any content promoting or facilitating predatory loan schemes is strictly prohibited. This includes, but is not limited to:
+
+- Payday loans with excessively high interest rates
+- Loan offers with hidden fees or misleading terms
+- Debt traps that exploit vulnerable individuals
+- Any financial product designed to take unfair advantage of borrowers
+
+# Serious Crimes
+
+Toxiq has a zero-tolerance policy for serious crimes committed on or through our platform. The following actions are strictly prohibited and will result in severe consequences:
+
+## Revenge Porn and Non-Consensual Intimate Image Sharing
+
+Toxiq considers the following actions to be serious criminal offenses:
+
+- Sharing intimate or private images/videos without the subject's explicit consent
+- Publishing images of hijabis without their hijab or any images that violate an individual's religious observances
+- Distributing any images of individuals in a state of undress they would not consent to be seen publicly
+- Threatening to share private or intimate content ("sextortion")
+- Using private images for blackmail or coercion
+
+## Misuse of AI and Digital Manipulation
+
+The following activities are strictly forbidden and will be treated as serious offenses:
+
+- Using AI or other technology to digitally remove or alter clothing in images without consent ("digital strip")
+- Creating or sharing deepfake pornography or any non-consensual sexualized images
+- Using AI to generate fake nude images or explicit content of real individuals
+- Manipulating images or videos to misrepresent an individual's modesty or religious adherence
+
+## Consequences
+
+1. Immediate and permanent account termination
+2. Removal of all offending content
+3. Blocking of the offender's IP address and device(s) from accessing Toxiq
+4. Reporting of the incident to relevant law enforcement agencies
+5. Full cooperation with law enforcement in any resulting investigation
+6. Potential legal action against the offender
+
+Toxiq is committed to maintaining a safe environment for all users and will take swift action against any form of exploitation, violation of privacy, or misuse of technology to harm others. We encourage users to report any instances of these crimes immediately.
+
+We recognize the evolving nature of technology-facilitated abuse and will continually update our policies and enforcement measures to address new forms of digital exploitation.
+
 # Advertising and Sponsored Content
 To maintain transparency and trust within the Toxiq community, the following guidelines apply to advertising and sponsored content:
 
