@@ -25,7 +25,9 @@ To maintain the integrity and safety of our community:
 # NSFW 
 any and all images uploaded must have NSFW tag added if it contains the following topics
 - Blood/Gore
-- Gross content (e.g., vomiting)
+- Gross content
+- Shocking or Sensitive content
+- Repulsive/Distasteful content
 
 #### NSFW tag does not give users a pass to upload Sexual content 
 
