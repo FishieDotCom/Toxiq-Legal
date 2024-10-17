@@ -65,6 +65,49 @@ To protect user data and maintain the integrity of the platform:
 - Requests should include detailed information about the intended use and the methods to be employed.
 - Toxiq reserves the right to approve or deny any request at its discretion.
 
+# Prohibition of Doxxing
+
+Toxiq strictly prohibits doxxing in any form. Doxxing is defined as the act of revealing or publishing private or identifying information about an individual or organization without their consent. This practice is a severe violation of privacy and can lead to harassment, stalking, or other harmful consequences.
+
+### Prohibited Actions
+
+The following actions are strictly forbidden on Toxiq:
+
+1. Sharing personal information without consent, including but not limited to:
+   - Full names (when linked to other identifying information)
+   - Home addresses
+   - Phone numbers
+   - Email addresses
+   - Government identification numbers eg : NID number
+   - Private social media accounts or personal websites
+   - Employer information or work addresses
+   - Family members' information
+
+2. Threatening to reveal someone's personal information
+3. Encouraging others to find or share someone's private information
+4. Sharing links to external sites containing doxxed information
+5. Using platform features (e.g., images, direct messages) to circumvent anti-doxxing measures
+
+### Exceptions
+
+1. Public figures: Sharing publicly available information about public figures is generally permitted, provided it does not include private details or encourage harassment.
+
+2. Consent: If an individual has explicitly and verifiably consented to have their information shared, it may be allowed. However, Toxiq reserves the right to remove such information if it poses a risk to the individual or others.
+
+### Consequences of Doxxing
+
+Users found engaging in doxxing will face severe consequences, including but not limited to:
+
+1. Immediate removal of the offending content
+2. Permanent account termination
+3. IP ban from the platform
+4. Reporting to relevant law enforcement agencies, if applicable
+
+### Reporting Doxxing
+
+Users are encouraged to report any instances of doxxing immediately. Toxiq will investigate all reports promptly and take appropriate action.
+
+
 # Prohibited Promotions
 To ensure the safety and well-being of our community, Toxiq prohibits the promotion of the following:
 
